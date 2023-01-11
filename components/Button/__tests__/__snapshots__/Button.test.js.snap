@@ -1,0 +1,269 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Danger Button Snapshot 1`] = `
+<button
+  className="inline-flex space-x-2 items-center align-center rounded-sm transition-colors text-sm px-4 py-1 justify-center border border-red-500 bg-red-500 text-white hover:text-red-500 hover:bg-opacity-30 hover:border-red-500 dark:bg-opacity-30 dark:hover:text-white dark:hover:bg-opacity-70 disabled:border-red-500 disabled:bg-red-500 disabled:text-white"
+>
+  <span>
+    Danger Button
+  </span>
+</button>
+`;
+
+exports[`Danger Ghost Button Snapshot 1`] = `
+<button
+  className="inline-flex space-x-2 items-center align-center rounded-sm transition-colors text-sm px-4 py-1 justify-center border text-red-500 bg-transparent border-red-500 hover:text-red-500 hover:bg-red-500 hover:bg-opacity-30 dark:text-white dark:hover:text-white disabled:text-red-500 disabled:bg-transparent disabled:border-red-500"
+>
+  <span>
+    Danger Ghost Button
+  </span>
+</button>
+`;
+
+exports[`Dark Button Snapshot 1`] = `
+<button
+  className="inline-flex space-x-2 items-center align-center rounded-sm transition-colors text-sm px-4 py-1 justify-center border border-dark-900 bg-dark-900 text-white hover:text-dark-700 hover:bg-dark-200 hover:border-dark-500 dark:bg-dark-300 dark:text-light dark:hover:bg-dark-700 disabled:border-dark-900 disabled:bg-dark-900 disabled:text-white"
+>
+  <span>
+    Dark Button
+  </span>
+</button>
+`;
+
+exports[`Dark Ghost Button Snapshot 1`] = `
+<button
+  className="inline-flex space-x-2 items-center align-center rounded-sm transition-colors text-sm px-4 py-1 justify-center border text-dark-700 bg-transparent border-dark-500 hover:border-dark-900 hover:bg-dark-200 hover:text-dark-700 dark:text-light dark:border-dark-700 dark:hover:bg-dark-300 dark:hover:text-light disabled:text-dark-900 disabled:bg-transparent disabled:border-dark-900 dark:disabled:border-dark-100 dark:disabled:text-dark-100 dark:disabled:bg-transparent"
+>
+  <span>
+    Dark Ghost Button
+  </span>
+</button>
+`;
+
+exports[`Default Props Button Snapshot 1`] = `
+<button
+  className="inline-flex space-x-2 items-center align-center rounded-sm transition-colors text-sm px-4 py-1 justify-center border border-primary-900 bg-primary-900 text-white hover:text-primary-700 hover:bg-primary-200 hover:border-primary-500 dark:bg-primary-300 dark:text-light dark:hover:bg-primary-700 disabled:border-primary-900 disabled:bg-primary-900 disabled:text-white"
+>
+  <span>
+    Hello
+  </span>
+</button>
+`;
+
+exports[`Disabled Button Snapshot 1`] = `
+<button
+  className="inline-flex space-x-2 items-center align-center rounded-sm transition-colors text-sm px-4 py-1 justify-center border border-primary-900 bg-primary-900 text-white hover:text-primary-700 hover:bg-primary-200 hover:border-primary-500 dark:bg-primary-300 dark:text-light dark:hover:bg-primary-700 disabled:border-primary-900 disabled:bg-primary-900 disabled:text-white disabled:opacity-40 cursor-not-allowed"
+  disabled={true}
+>
+  <span>
+    Disabled Button
+  </span>
+</button>
+`;
+
+exports[`Icon Left Button Snapshot 1`] = `
+<button
+  className="inline-flex space-x-2 items-center align-center rounded-sm transition-colors text-sm px-4 py-1 justify-center border border-primary-900 bg-primary-900 text-white hover:text-primary-700 hover:bg-primary-200 hover:border-primary-500 dark:bg-primary-300 dark:text-light dark:hover:bg-primary-700 disabled:border-primary-900 disabled:bg-primary-900 disabled:text-white"
+>
+  <span>
+    ICON
+  </span>
+  <span>
+    Left Button
+  </span>
+</button>
+`;
+
+exports[`Icon Right Button Snapshot 1`] = `
+<button
+  className="inline-flex space-x-2 items-center align-center rounded-sm transition-colors text-sm px-4 py-1 justify-center border border-primary-900 bg-primary-900 text-white hover:text-primary-700 hover:bg-primary-200 hover:border-primary-500 dark:bg-primary-300 dark:text-light dark:hover:bg-primary-700 disabled:border-primary-900 disabled:bg-primary-900 disabled:text-white"
+>
+  <span>
+    Right Button
+  </span>
+  <span>
+    ICON
+  </span>
+</button>
+`;
+
+exports[`Large Button Snapshot 1`] = `
+<button
+  className="inline-flex space-x-2 items-center align-center rounded-sm transition-colors text-lg px-8 py-1 justify-center border border-primary-900 bg-primary-900 text-white hover:text-primary-700 hover:bg-primary-200 hover:border-primary-500 dark:bg-primary-300 dark:text-light dark:hover:bg-primary-700 disabled:border-primary-900 disabled:bg-primary-900 disabled:text-white"
+>
+  <span>
+    Large Button
+  </span>
+</button>
+`;
+
+exports[`Light Button Snapshot 1`] = `
+<button
+  className="inline-flex space-x-2 items-center align-center rounded-sm transition-colors text-sm px-4 py-1 justify-center border border-light-900 bg-light-900 text-white hover:text-light-700 hover:bg-light-200 hover:border-light-500 dark:bg-light-300 dark:text-light dark:hover:bg-light-700 disabled:border-light-900 disabled:bg-light-900 disabled:text-white"
+>
+  <span>
+    Light Button
+  </span>
+</button>
+`;
+
+exports[`Light Ghost Button Snapshot 1`] = `
+<button
+  className="inline-flex space-x-2 items-center align-center rounded-sm transition-colors text-sm px-4 py-1 justify-center border text-light-700 bg-transparent border-light-500 hover:border-light-900 hover:bg-light-200 hover:text-light-700 dark:text-light dark:border-light-700 dark:hover:bg-light-300 dark:hover:text-light disabled:text-light-900 disabled:bg-transparent disabled:border-light-900 dark:disabled:border-light-100 dark:disabled:text-light-100 dark:disabled:bg-transparent"
+>
+  <span>
+    Light Ghost Button
+  </span>
+</button>
+`;
+
+exports[`Primary Button Snapshot 1`] = `
+<button
+  className="inline-flex space-x-2 items-center align-center rounded-sm transition-colors text-sm px-4 py-1 justify-center border border-primary-900 bg-primary-900 text-white hover:text-primary-700 hover:bg-primary-200 hover:border-primary-500 dark:bg-primary-300 dark:text-light dark:hover:bg-primary-700 disabled:border-primary-900 disabled:bg-primary-900 disabled:text-white"
+>
+  <span>
+    Primary Button
+  </span>
+</button>
+`;
+
+exports[`Primary Ghost Button Snapshot 1`] = `
+<button
+  className="inline-flex space-x-2 items-center align-center rounded-sm transition-colors text-sm px-4 py-1 justify-center border text-primary-700 bg-transparent border-primary-500 hover:border-primary-900 hover:bg-primary-200 hover:text-primary-700 dark:text-light dark:border-primary-700 dark:hover:bg-primary-300 dark:hover:text-light disabled:text-primary-900 disabled:bg-transparent disabled:border-primary-900 dark:disabled:border-primary-100 dark:disabled:text-primary-100 dark:disabled:bg-transparent"
+>
+  <span>
+    Primary Ghost Button
+  </span>
+</button>
+`;
+
+exports[`Processing Button Snapshot 1`] = `
+<button
+  className="inline-flex space-x-2 items-center align-center rounded-sm transition-colors text-sm px-4 py-1 justify-center border border-primary-900 bg-primary-900 text-white hover:text-primary-700 hover:bg-primary-200 hover:border-primary-500 dark:bg-primary-300 dark:text-light dark:hover:bg-primary-700 disabled:border-primary-900 disabled:bg-primary-900 disabled:text-white"
+>
+  <svg
+    className="h-6 w-6 animate-pulse"
+    fill="none"
+    stroke="currentColor"
+    viewBox="0 0 24 24"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <path
+      d="M5 12h.01M12 12h.01M19 12h.01M6 12a1 1 0 11-2 0 1 1 0 012 0zm7 0a1 1 0 11-2 0 1 1 0 012 0zm7 0a1 1 0 11-2 0 1 1 0 012 0z"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      strokeWidth={2}
+    />
+  </svg>
+</button>
+`;
+
+exports[`Secondary Button Snapshot 1`] = `
+<button
+  className="inline-flex space-x-2 items-center align-center rounded-sm transition-colors text-sm px-4 py-1 justify-center border border-secondary-900 bg-secondary-900 text-white hover:text-secondary-700 hover:bg-secondary-200 hover:border-secondary-500 dark:bg-secondary-300 dark:text-light dark:hover:bg-secondary-700 disabled:border-secondary-900 disabled:bg-secondary-900 disabled:text-white"
+>
+  <span>
+    Secondary Button
+  </span>
+</button>
+`;
+
+exports[`Secondary Ghost Button Snapshot 1`] = `
+<button
+  className="inline-flex space-x-2 items-center align-center rounded-sm transition-colors text-sm px-4 py-1 justify-center border text-secondary-700 bg-transparent border-secondary-500 hover:border-secondary-900 hover:bg-secondary-200 hover:text-secondary-700 dark:text-light dark:border-secondary-700 dark:hover:bg-secondary-300 dark:hover:text-light disabled:text-secondary-900 disabled:bg-transparent disabled:border-secondary-900 dark:disabled:border-secondary-100 dark:disabled:text-secondary-100 dark:disabled:bg-transparent"
+>
+  <span>
+    Secondary Ghost Button
+  </span>
+</button>
+`;
+
+exports[`Small Button Snapshot 1`] = `
+<button
+  className="inline-flex space-x-2 items-center align-center rounded-sm transition-colors text-sm px-4 py-1 justify-center border border-primary-900 bg-primary-900 text-white hover:text-primary-700 hover:bg-primary-200 hover:border-primary-500 dark:bg-primary-300 dark:text-light dark:hover:bg-primary-700 disabled:border-primary-900 disabled:bg-primary-900 disabled:text-white"
+>
+  <span>
+    Small Button
+  </span>
+</button>
+`;
+
+exports[`Success Button Snapshot 1`] = `
+<button
+  className="inline-flex space-x-2 items-center align-center rounded-sm transition-colors text-sm px-4 py-1 justify-center border border-green-500 bg-green-500 text-white hover:text-green-500 hover:bg-opacity-30 hover:border-green-500 dark:bg-opacity-30 dark:hover:text-white dark:hover:bg-opacity-70 disabled:border-green-500 disabled:bg-green-500 disabled:text-white"
+>
+  <span>
+    Success Button
+  </span>
+</button>
+`;
+
+exports[`Success Ghost Button Snapshot 1`] = `
+<button
+  className="inline-flex space-x-2 items-center align-center rounded-sm transition-colors text-sm px-4 py-1 justify-center border text-green-500 bg-transparent border-green-500 hover:text-green-500 hover:bg-green-500 hover:bg-opacity-30 dark:text-white dark:hover:text-white disabled:text-green-500 disabled:bg-transparent disabled:border-green-500"
+>
+  <span>
+    Success Ghost Button
+  </span>
+</button>
+`;
+
+exports[`Tertiary Button Snapshot 1`] = `
+<button
+  className="inline-flex space-x-2 items-center align-center rounded-sm transition-colors text-sm px-4 py-1 justify-center border border-tertiary-900 bg-tertiary-900 text-white hover:text-tertiary-700 hover:bg-tertiary-200 hover:border-tertiary-500 dark:bg-tertiary-300 dark:text-light dark:hover:bg-tertiary-700 disabled:border-tertiary-900 disabled:bg-tertiary-900 disabled:text-white"
+>
+  <span>
+    Tertiary Button
+  </span>
+</button>
+`;
+
+exports[`Tertiary Ghost Button Snapshot 1`] = `
+<button
+  className="inline-flex space-x-2 items-center align-center rounded-sm transition-colors text-sm px-4 py-1 justify-center border text-tertiary-700 bg-transparent border-tertiary-500 hover:border-tertiary-900 hover:bg-tertiary-200 hover:text-tertiary-700 dark:text-light dark:border-tertiary-700 dark:hover:bg-tertiary-300 dark:hover:text-light disabled:text-tertiary-900 disabled:bg-transparent disabled:border-tertiary-900 dark:disabled:border-tertiary-100 dark:disabled:text-tertiary-100 dark:disabled:bg-transparent"
+>
+  <span>
+    Tertiary Ghost Button
+  </span>
+</button>
+`;
+
+exports[`Text Button Snapshot 1`] = `
+<button
+  className="inline-flex space-x-2 items-center align-center rounded-sm transition-colors text-sm px-4 py-1 hover:text-primary-900 hover:bg-primary-200 hover:bg-opacity-80 dark:border dark:border-transparent dark:text-light dark:hover:border-primary-700 disabled:text-primary-3000 disabled:bg-transparent dark:disabled:text-primary-400 dark:disabled:bg-transparent"
+>
+  <span>
+    Text Button
+  </span>
+</button>
+`;
+
+exports[`Warning Button Snapshot 1`] = `
+<button
+  className="inline-flex space-x-2 items-center align-center rounded-sm transition-colors text-sm px-4 py-1 justify-center border border-yellow-500 bg-yellow-500 text-white hover:text-yellow-500 hover:bg-opacity-30 hover:border-yellow-500 dark:bg-opacity-30 dark:hover:text-white dark:hover:bg-opacity-70 disabled:border-yellow-500 disabled:bg-yellow-500 disabled:text-white"
+>
+  <span>
+    Warning Button
+  </span>
+</button>
+`;
+
+exports[`Warning Ghost Button Snapshot 1`] = `
+<button
+  className="inline-flex space-x-2 items-center align-center rounded-sm transition-colors text-sm px-4 py-1 justify-center border text-yellow-500 bg-transparent border-yellow-500 hover:text-yellow-500 hover:bg-yellow-500 hover:bg-opacity-30 dark:text-white dark:hover:text-white disabled:text-yellow-500 disabled:bg-transparent disabled:border-yellow-500"
+>
+  <span>
+    Warning Ghost Button
+  </span>
+</button>
+`;
+
+exports[`Xtra Large Button Snapshot 1`] = `
+<button
+  className="inline-flex space-x-2 items-center align-center rounded-sm transition-colors text-2xl px-10 py-1.5 justify-center border border-primary-900 bg-primary-900 text-white hover:text-primary-700 hover:bg-primary-200 hover:border-primary-500 dark:bg-primary-300 dark:text-light dark:hover:bg-primary-700 disabled:border-primary-900 disabled:bg-primary-900 disabled:text-white"
+>
+  <span>
+    Xtra Large Button
+  </span>
+</button>
+`;
